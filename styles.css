@@ -1,0 +1,20 @@
+* {
+    background-color: moccasin;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    background-color: orange;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.box-one {
+    padding: 6px;
+    margin: 6px;
+    border: 2px solid black;
+}
